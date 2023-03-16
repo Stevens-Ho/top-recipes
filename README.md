@@ -1,3 +1,2 @@
 # odin-recipes
-Html project in the odin project
-start to do the project on 15 Mar 2023
+This is first project of the odin project. It is about to build a recipe website with the HTML basic knowledge that I have been learning from the odin project. After I done the odin-recipe project, I may understand the foundation of HTML and will continue with my journey of coding to foundation of CSS.
